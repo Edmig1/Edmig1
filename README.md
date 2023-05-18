@@ -20,13 +20,13 @@
    </div> 
  
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://mail.google.com/mail/u/0/#search/alexandremilim15%40gmail.com?compose=new">
+    <a href = "">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
     </a>
-    <a href = "https://www.instagram.com/milim.batman/">
+    <a href = "">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/alexandre-milim-1ba537269/">
+    <a href = "">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
