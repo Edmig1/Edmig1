@@ -26,10 +26,10 @@
     <a href = "">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
     </a>
-    <a href = "">
+    <a href = "https://www.instagram.com/torres_coder/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "">
+    <a href = "https://www.linkedin.com/in/miguel-torres-16456926a/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
